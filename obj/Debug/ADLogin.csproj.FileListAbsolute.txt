@@ -1,0 +1,4 @@
+E:\MS\ADLogin\bin\ADLogin.dll
+E:\MS\ADLogin\bin\ADLogin.pdb
+E:\MS\ADLogin\obj\Debug\ADLogin.dll
+E:\MS\ADLogin\obj\Debug\ADLogin.pdb
